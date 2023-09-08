@@ -1,4 +1,5 @@
-https://images.app.goo.gl/6oHdah87nVFBVK6m7
+
+<img src="[https://komarev.com/ghpvc/?username=gitirom&label=Profile%20views&color=0e75b6&style=flat](https://images.app.goo.gl/6oHdah87nVFBVK6m7)" alt="gitirom" />
 <h1 align="center">Hi 👋, I'm Romdhane Wadia</h1>
 <h3 align="center">A junior Full Stack developer From Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
