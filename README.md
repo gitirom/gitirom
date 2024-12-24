@@ -2,13 +2,13 @@
 ![MasterHead]([http://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC))
 <h1 align="center">Hi 👋, I'm Romdhane Wadia</h1>
 <h3 align="center">A junior Full Stack developer From Tunisia</h3>
-<img align="right" alt="MasterHead" width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="MasterHead" width="600" src="http://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitirom&label=Profile%20views&color=0e75b6&style=flat" alt="gitirom" /> </p>
 
 - 🌱 I’m currently learning **FrameWorks**
 
-- 💬 Ask me about **react, node., next, nest**
+- 💬 Ask me about **react, node, next, nest**
 
 - 📫 How to reach me **wadiaromdane10@gmail.com**
 
